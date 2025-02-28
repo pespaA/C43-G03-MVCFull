@@ -1,0 +1,24 @@
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\خاص\عمر\route\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
