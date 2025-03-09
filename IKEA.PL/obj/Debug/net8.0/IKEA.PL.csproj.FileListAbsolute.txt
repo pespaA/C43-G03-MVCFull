@@ -534,3 +534,4 @@ D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.PL\obj\
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.PL\obj\Debug\net8.0\IKEA.PL.pdb
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.PL\obj\Debug\net8.0\IKEA.PL.genruntimeconfig.cache
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.PL\obj\Debug\net8.0\ref\IKEA.PL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.PL\obj\Debug\net8.0\IKEA.PL.sourcelink.json

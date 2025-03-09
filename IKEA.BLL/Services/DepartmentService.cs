@@ -68,16 +68,19 @@ namespace IKEA.BLL.Services
         }
         public int UpdateDepartment(UpdateDepartmentDto departmentDto)
         {
-            var UpdatedDerpartment = new Department()
+            var existingDepartment = _departmentRepository.GetById(departmentDto.Id);
+            if (existingDepartment == null)
             {
-                Code = departmentDto.Code,
-                Name = departmentDto.Name,
-                Description = departmentDto.Description,
-                CreationDate = departmentDto.CreationDate,
-                LastModificationBy =1,
-                LastModificationOn = DateTime.UtcNow,
-            };
-            return _departmentRepository.Update(UpdatedDerpartment);
+                return 0;
+            }
+            existingDepartment.Code = departmentDto.Code;
+            existingDepartment.Name = departmentDto.Name;
+            existingDepartment.Description = departmentDto.Description;
+            existingDepartment.CreationDate = departmentDto.CreationDate;
+            existingDepartment.LastModificationBy = 1;
+            existingDepartment.LastModificationOn = DateTime.UtcNow;
+            return _departmentRepository.Update(existingDepartment);
+            
         }
         public bool DeleteDepartment(int id)
         {

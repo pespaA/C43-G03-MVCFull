@@ -28,3 +28,4 @@ D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.BLL\obj
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.BLL\obj\Debug\net8.0\refint\IKEA.BLL.dll
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.BLL\obj\Debug\net8.0\IKEA.BLL.pdb
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.BLL\obj\Debug\net8.0\ref\IKEA.BLL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.BLL\obj\Debug\net8.0\IKEA.BLL.sourcelink.json
