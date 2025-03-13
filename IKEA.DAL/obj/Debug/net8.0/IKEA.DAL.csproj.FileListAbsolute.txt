@@ -22,3 +22,4 @@ D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
 D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\خاص\عمر\ITI Course\02 C#\05 MVC\Session 03\Assignment\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.sourcelink.json

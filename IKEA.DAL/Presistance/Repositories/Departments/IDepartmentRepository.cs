@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using IKEA.DAL.Models.Departments;
+using IKEA.DAL.Presistance.Repositories._Generic;
 
 namespace IKEA.DAL.Presistance.Repositories.Departments
 {
-    public interface IDepartmentRepository
+    public interface IDepartmentRepository:IGenericRepository<Department>
     {
-        IEnumerable<Department> GetAll(bool WithAsNoTracking=true);
-        IQueryable<Department> GetAllAsQuerable();
-        Department? GetById(int id);
-        int Add(Department entity);
-        int Update(Department entity);
-        int Delete(Department entity);
+        IEnumerable<Department> GetSpecificDepartments();
     }
 }
