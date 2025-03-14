@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5838013-B4A2-415D-8938-313E9530B119}|IKEA.BLL\\IKEA.BLL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5838013-B4A2-415D-8938-313E9530B119}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5838013-B4A2-415D-8938-313E9530B119}|IKEA.BLL\\IKEA.BLL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5838013-B4A2-415D-8938-313E9530B119}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.dal\\presistance\\repositories\\_generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\repositories\\_generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.dal\\presistance\\repositories\\employees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\repositories\\employees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D003CA49-C22D-40B8-88F5-2ED61C50FD4C}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|d:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\iti course\\02 c#\\05 mvc\\session 03\\assignment\\ikea\\ikea.dal\\presistance\\repositories\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B995ED8-DBBD-4DC4-9F91-D4B01C69EC25}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\repositories\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Program.cs",
-              "RelativeDocumentMoniker": "IKEA.PL\\Program.cs",
-              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Program.cs",
-              "RelativeToolTip": "IKEA.PL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "IKEA.BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:04:30.266Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-14T02:57:54.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.BLL\\Services\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Services\\IDepartmentService.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.BLL\\Services\\IDepartmentService.cs",
+              "RelativeToolTip": "IKEA.BLL\\Services\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:57:14.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:51:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:39:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T02:43:54.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\_Generic\\GenericRepository.cs",
               "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Repositories\\_Generic\\GenericRepository.cs",
               "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\_Generic\\GenericRepository.cs",
               "RelativeToolTip": "IKEA.DAL\\Presistance\\Repositories\\_Generic\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:43:32.401Z",
+              "WhenOpened": "2025-03-14T02:43:17.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Employees\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Repositories\\Employees\\EmployeeRepository.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Employees\\EmployeeRepository.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Repositories\\Employees\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:42:56.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "ToolTip": "D:\\\u062E\u0627\u0635\\\u0639\u0645\u0631\\ITI Course\\02 C#\\05 MVC\\Session 03\\Assignment\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:42:50.212Z",
               "EditorCaption": ""
             }
           ]

@@ -154,25 +154,27 @@ namespace IKEA.PL.Controllers
         #endregion
         #endregion
         #region Delete
-        [HttpGet]
-        public IActionResult Delete(int? id)
-        {
-            if (id is null)
-                return BadRequest();
-            var department = _departmentService.GetDepartmentById(id.Value);
-            if (department is null)
-                return NotFound();
+        //[HttpGet]
+        //public IActionResult Delete(int? id)
+        //{
+        //    if (id is null)
+        //        return BadRequest();
+        //    var department = _departmentService.GetDepartmentById(id.Value);
+        //    if (department is null)
+        //        return NotFound();
 
-            return View(department); 
-        }
-        //-----------------
+        //    return View(department); 
+        //}
+        ////-----------------
         [HttpPost]
         public IActionResult Delete(int id) 
         {
+            _Logger.LogInformation($"Deleting Department ID: {id}");
             var message = string.Empty;
             try
             {
                 var deleted = _departmentService.DeleteDepartment(id);
+                _Logger.LogInformation($"DeleteDepartment returned: {deleted}");
                 if (deleted)
                     return RedirectToAction(nameof(Index));
 
